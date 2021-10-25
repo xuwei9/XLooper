@@ -1,6 +1,6 @@
-# Foundation库说明
+# XLooper库说明
 
-## 0.Foundation说明
+## 0.XLooper库说明
 
 XMessage、XLooper和XHandler主要代码移植自AOSP libstagefright/foundation，支持跨平台使用。
 
